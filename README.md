@@ -1,1 +1,1 @@
-# wallpaper_changer
+Wallpaper changer for Mac
